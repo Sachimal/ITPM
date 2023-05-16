@@ -265,7 +265,7 @@ export class Register extends React.Component {
                   </div>
 
                   <p className={"loginLink"}>
-                    <a href="#" onClick={this.props.changeState}>I already have an account!</a>
+                    <a href="#" onClick={this.props.changeState}>I already have an account!!</a>
                   </p>
                 </Form>
               )
