@@ -1,6 +1,6 @@
 # ITPM_AquaClean
 Members
-1) IT20655266 - Samarasena D.L.S.S.
+1) IT20655266 - Samarasena D.L.S.S. (Group 94)
 
 _Description_
 i)Registration page allows new users to create an account by providing their basic information such as name, email, password, student Id and contact number.
